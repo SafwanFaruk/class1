@@ -1,0 +1,5 @@
+print("Hello I am Safwan")
+print(4)
+print("4+4")
+print("Hey Buddy")
+print("4+100=",4+100)
